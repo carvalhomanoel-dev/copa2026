@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.bandeira img{
+    width: 70px;
+    height: 50px;
+}
+
+table{
+    min-width: 40% ;
+    margin: auto;
+}
+.time{
+    text-align: left;
+}
+.bandeira{
+    width: 80px;
+}
