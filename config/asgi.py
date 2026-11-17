@@ -1,5 +1,5 @@
 """
-ASGI config for copa2026 project.
+ASGI config for copa26 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
